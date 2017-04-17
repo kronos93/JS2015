@@ -1,0 +1,23 @@
+let head = document.head;
+let body = document.body;
+let html = document.documentElement;
+let domain = document.domain;
+let url = document.URL;
+let scripts = document.scripts;
+let css = document.styleSheets;
+let charset = document.characterSet;
+let doctype = document.doctype;
+console.log(head);
+console.log(body);
+console.log(html);
+console.log(domain);
+console.log(url);
+console.log(scripts);
+console.log(css);
+console.log(charset);
+console.log(doctype);
+
+let links = document.links;
+console.log(links);
+let images = document.images;
+let forms = document.forms;
